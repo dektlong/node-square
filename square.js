@@ -1,4 +1,4 @@
 module.exports = x => {
     const xx = x ** 2;
-    return `\nsquare of ${x} is REALLY ${xx}`;
+    return `\nsquare of ${x} is ${xx}`;
 }
